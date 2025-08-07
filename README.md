@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Mahdi Ghasemi
+# 👋 Hey, I'm Mahdi Ghasemi
 
 [![Visits](https://visitcount.itsvg.in/api?id=mahdi-ghasemi&icon=5&color=12)](https://visitcount.itsvg.in)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-ghasemi)
@@ -8,10 +8,11 @@
 
 ---
 
-🎯 **Python Developer | Backend Enthusiast | All-Round Coder**
+💻 **Python Developer | Backend Enthusiast | Versatile Programmer**
 
-سلام! من مهدی هستم، عاشق کدنویسی با پایتون و غرق در دنیای بک‌اند. از ساخت API و اسکریپت‌های هوشمند گرفته تا طراحی سیستم‌های کاربردی، همه چی رو با علاقه و دقت انجام می‌دم.  
-تجربه‌ی من فقط محدود به پایتون نیست؛ توی این مسیر، با زبان‌ها و ابزارهای متنوعی مثل C, C++, PHP, HTML, CSS, Laravel و ... کار کردم و همیشه دنبال یادگیری چیزای جدیدم!
+I'm a software developer with a strong passion for building scalable, efficient, and clean backend systems – mostly with **Python**.  
+Throughout my journey, I’ve worked with a variety of languages and technologies like **C**, **C++**, **PHP**, **HTML**, **CSS**, **Laravel**, and more.  
+I love solving real-world problems with code, learning new tools, and experimenting with different tech stacks.
 
 ---
 
@@ -33,7 +34,7 @@
 
 ---
 
-## 🔥 GitHub Stats:
+## 📈 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=mahdi-ghasemi&theme=tokyonight&hide_border=false&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mahdi-ghasemi&theme=tokyonight&hide_border=false)<br/>
@@ -41,14 +42,12 @@
 
 ---
 
-## 💬 Contact Me
+## ✉️ Contact
 
-📧 Email: mahdighasemi.dev@gmail.com  
-💬 Telegram: [@mahdi__ghasemi](https://t.me/mahdi__ghasemi)  
-📸 Instagram: [mahdi__ghasemi](https://instagram.com/mahdi__ghasemi)
+- Email: [mahdighasemi.dev@gmail.com](mailto:mahdighasemi.dev@gmail.com)  
+- Telegram: [@mahdi__ghasemi](https://t.me/mahdi__ghasemi)  
+- Instagram: [mahdi__ghasemi](https://instagram.com/mahdi__ghasemi)
 
 ---
-
-🚀 آماده‌ی همکاری‌های جذاب و پروژه‌های هیجان‌انگیزم. اگه دنبال یه دولوپر باهوش، خلاق و با پشتکار می‌گردی، حتما یه پیام بده!
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
