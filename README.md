@@ -1,11 +1,11 @@
 # 👋 Hey, I'm Mahdi Ghasemi
 
-[![Visits](https://visitcount.itsvg.in/api?id=mahdi-ghasemi&icon=5&color=12)](https://visitcount.itsvg.in)
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-ghasemi)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/mahdi__ghasemi)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mahdi__ghasemi)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahdighasemi.dev@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/mahdi-ghasemi?label=Follow&style=social)](https://github.com/mahdi-ghasemi)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/MahdiGhasemidev)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mahdii.ghasemiii)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahdi.ghasemi.dev@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/mahdi-ghasemi?label=Follow&style=social)](https://github.com/MahdiGhasemidev)
 
 ---
 
@@ -71,9 +71,9 @@ I enjoy solving real-world problems, learning new tools, and experimenting with 
 
 ### 📬 Get in Touch
 
-- Email: [mahdighasemi.dev@gmail.com](mailto:mahdighasemi.dev@gmail.com)  
-- Telegram: [@mahdi__ghasemi](https://t.me/mahdi__ghasemi)  
-- Instagram: [@mahdi__ghasemi](https://instagram.com/mahdi__ghasemi)
+- Email: [mahdighasemi.dev@gmail.com](mailto:mahdi.ghasemi.dev@gmail.com)  
+- Telegram: [@mahdi__ghasemi](https://t.me/MahdiGhasemidev)  
+- Instagram: [@mahdi__ghasemi](https://instagram.com/mahdii.ghasemiii)
 
 ---
 
