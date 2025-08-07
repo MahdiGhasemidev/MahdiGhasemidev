@@ -1,33 +1,25 @@
-<h1 align="center">Hi there 👋, I'm Mahdi Ghasemi</h1>
-<h3 align="center">A passionate Python developer and full-stack explorer</h3>
+# 👋 Hey, I'm Mahdi Ghasemi
 
-<p align="center">
-  <a href="https://linkedin.com/in/mahdi-ghasemi">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mahdighasemi.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://t.me/mahdi__ghasemi">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/mahdi__ghasemi">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-</p>
+[![Visits](https://visitcount.itsvg.in/api?id=mahdi-ghasemi&icon=5&color=12)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdi-ghasemi)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/mahdi__ghasemi)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mahdi__ghasemi)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahdighasemi.dev@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/mahdi-ghasemi?label=Follow&style=social)](https://github.com/mahdi-ghasemi)
 
 ---
 
-### 🧠 About Me
+💻 **Python Developer | Backend Enthusiast | Versatile Programmer**
 
-I'm a software developer with a strong focus on **Python** and backend development. I love building scalable APIs, automating things, and working with clean and efficient code.  
-But I don’t stop at Python — I’ve worked with several languages and frameworks throughout my journey: from low-level **C/C++**, to scripting with **PHP**, to full-stack with **Laravel**, and of course, classic web development with **HTML/CSS**.
+I'm a software developer with a strong passion for building scalable, efficient, and clean backend systems – mostly with **Python**.  
+Throughout my journey, I’ve worked with a variety of languages and technologies like **C**, **C++**, **PHP**, **HTML**, **CSS**, **Laravel**, and more.  
+I enjoy solving real-world problems, learning new tools, and experimenting with different tech stacks.
 
 > Currently exploring: FastAPI, Dockerized microservices, and Machine Learning foundations.
 
 ---
 
-### 🔧 Tech Stack
+### 🛠 Tech Stack
 
 #### 🖥 Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -63,22 +55,17 @@ But I don’t stop at Python — I’ve worked with several languages and framew
 
 ### 📈 GitHub Activity
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mahdi-ghasemi&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=mahdi-ghasemi&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdi-ghasemi&show_icons=true&theme=tokyonight&hide_border=false)
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-ghasemi&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahdi-ghasemi&theme=tokyonight&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-ghasemi&layout=compact&theme=tokyonight&hide_border=false)
 
 ---
 
-### ✍️ Quote of the Day
+### ✍️ Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
@@ -90,6 +77,4 @@ But I don’t stop at Python — I’ve worked with several languages and framew
 
 ---
 
-<p align="center">
-  <em>Keep learning, keep building. See you at the next commit 🚀</em>
-</p>
+_Keep learning, keep building. See you at the next commit 🚀_
