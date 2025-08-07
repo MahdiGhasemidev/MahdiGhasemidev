@@ -71,7 +71,7 @@ I enjoy solving real-world problems, learning new tools, and experimenting with 
 
 ### 📬 Get in Touch
 
-- Email: [mahdighasemi.dev@gmail.com](mailto:mahdi.ghasemi.dev@gmail.com)  
+- Email: [Mahdi Ghasemi](mailto:mahdi.ghasemi.dev@gmail.com)  
 - Telegram: [Mahdi Ghasemi](https://t.me/MahdiGhasemidev)  
 - Instagram: [Mahdi Ghasemi](https://instagram.com/mahdii.ghasemiii)
 
